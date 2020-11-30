@@ -7,3 +7,4 @@
 * **Why did i make it?** I was extremely bored.
 
 **If you want this to work properly make sure you sent the cmd font size to 5 and make sure you launch it from CMD.**
+![](name-of-giphy.gif)
